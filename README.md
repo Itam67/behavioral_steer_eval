@@ -29,8 +29,8 @@ This repository contains the code for the paper **"Towards Reliable Evaluation o
 2. **Figure Parameters**
    - Update `src/pipeline.py` with the following paths:
      ```python
-     ctrl_like_dir = "results/behavior_name/behavior_name_control.pt"
-     exp_like_dir = "results/behavior_name/behavior_name_exp.pt"
+     'ctrl_like_dir':'results/behavior_name/behavior_name_control.pt'
+     'exp_like_dir':'results/behavior_name/behavior_name_exp.pt'
      ```
 
 ---
