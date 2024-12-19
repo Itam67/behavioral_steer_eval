@@ -9,7 +9,7 @@ This repository contains the code for the paper **"Towards Reliable Evaluation o
 
 ## Pipeline Overview
 
-### Files
+### Important Files
 - **`experiments/calc_fine_tune.py`**: Computes likelihoods of continuations for fine-tuned models loaded from Hugging Face.
 - **`experiments/calc_steer.py`**: Evaluates likelihoods of continuations for models with steering vectors applied.
 - **`src/pipeline.py`**: Produces figures and metric data based on the computed likelihoods.
