@@ -23,7 +23,7 @@ This repository contains the code for the paper **"Towards Reliable Evaluation o
    - Modify the parameters in `experiments/calc_fine_tune.py` or `experiments/calc_steer.py` according to your needs.
    - Set the output directory:
      ```python
-     output_dir = "results/behavior_name"
+     'output_dir':'results/behavior_name'
      ```
 
 2. **Figure Parameters**
